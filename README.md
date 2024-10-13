@@ -3,6 +3,8 @@ This repository contains an automated test suite for simulating an online shoppi
 
 amazon_home_page.py: Contains the HomePage class with methods for interacting with Amazon's home page elements.
 
+basket_page.py: Contains the BasketPage class, which provides methods for managing items in the basket, such as reviewing, updating quantities, and verifying the basket contents.
+
 product_page.py: Contains the ProductPage class, which includes methods for interacting with the product detail page.
 
 test_shopping.py: Implements the test case for searching a product, adding it to the basket, and updating the quantity.
